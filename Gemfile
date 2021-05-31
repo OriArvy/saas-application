@@ -13,6 +13,8 @@ gem 'devise'
 gem 'milia', '~> 1.3.1'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'jquery-rails'
+gem 'rails-ujs'
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
